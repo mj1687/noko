@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <!-- Height of a heads up notification in the status bar -->
+    <dimen name="notification_max_heads_up_height">140dp</dimen>
+
+</resources>

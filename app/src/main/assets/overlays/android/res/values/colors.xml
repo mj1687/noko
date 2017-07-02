@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+<!-- Here there is the lis of used colors, all the new color will be in the list below --> 
+	<!-- Amber -->
+	<!-- #FFA000 - Amber 700 -->
+    <!-- #FFB300 - Amber 600 -->
+    <!-- #FFC107 - Amber 500 -->
+
+	<!-- Deep orange -->
+	<!-- #FF7043 - Deep orange 400 -->
+	<!-- #F4511E - Deep orange 600 -->
+	<!-- #FF3D00 - Deep orange A400 -->
+	<!-- #FFCCBC - Deep orange 100 -->
+	<!-- #E64A19 - Deep orange 600 -->
+
+	
+<!-- Start of customizations -->
+    <!-- Some customized colors -->
+    <color name="accent_material_light">#FF7043</color>
+    <color name="accent_material_dark">#F4511E</color>
+
+</resources>
