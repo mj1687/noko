@@ -2,22 +2,35 @@
 <resources>
  
 <!-- Here there is the lis of used colors, all the new color will be in the list below --> 
-	<!-- Amber -->
-	<!-- #FFA000 - Amber 700 -->
-    <!-- #FFB300 - Amber 600 -->
-    <!-- #FFC107 - Amber 500 -->
 
 	<!-- Deep orange -->
-	<!-- #FF7043 - Deep orange 400 -->
-	<!-- #F4511E - Deep orange 600 -->
-	<!-- #FF3D00 - Deep orange A400 -->
-	<!-- #FFCCBC - Deep orange 100 -->
-	<!-- #E64A19 - Deep orange 600 -->
-
+	<!-- #FF7043 - 400 -->
+	<!-- #F4511E - 600 -->
+	<!-- #FF3D00 - A400 -->
+	<!-- #FFCCBC - 100 -->
+	<!-- #E64A19 - 600 -->
 	
-<!-- Start of customizations -->
-    <!-- Some customized colors -->
-    <color name="accent_material_light">#FF7043</color>
-    <color name="accent_material_dark">#F4511E</color>
+	<!-- Yellow -->
+	<!-- #FFEB3B - 500 -->
+	<!-- #FDD835 - 600 -->
+	
+	<!-- Green -->
+	<!-- #66BB6A - 400 -->
+	<!-- #43A047 - 600 -->
+	
+	<!-- Cyan -->
+	<!-- #26C6DA - 400 -->
+	<!-- #00ACC1 - 600 -->
+	
+	<!-- Light blue -->
+	<!-- #29B6F6 - 400 -->
+	<!-- #039BE5 - 600 -->
+	
+	<!-- Red -->
+    <!-- #F44336 - 500 -->
+    <!-- #E53935 - 600 -->	
+	
+    <color name="accent_material_light">#ff3e4147</color>
+    <color name="accent_material_dark">#ff2a2c31</color>
 
 </resources>
