@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+<!-- Here there is the lis of used colors, all the new color will be in the list below --> 
+
+    <!-- Android O Colors -->
+    <!-- #F5F5F5 - White QS background -->
+	<!-- #EEEEEE - Another white to make the secondary settings color -->
+	<!-- #4C4C4C - System accent and color of the QS icons -->
+	<!-- #212121 - Second system accent added by me -->
+	
+    <color name="accent_material_light">#4C4C4C</color>
+    <color name="accent_material_dark">#212121</color>
+	
+    <color name="primary_material_settings">#F5F5F5</color>
+    <color name="secondary_material_settings">#EEEEEE</color>
+	
+	<color name="external_qs_tile_tint_color">@android:color/white</color>
+
+
+</resources>

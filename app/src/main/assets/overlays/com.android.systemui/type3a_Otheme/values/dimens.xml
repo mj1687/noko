@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <dimen name="recents_task_view_rounded_corners_radius">5dp</dimen>
-    <dimen name="recents_task_view_shadow_rounded_corners_radius">9dp</dimen>
+   <dimen name="recents_task_view_rounded_corners_radius">5dp</dimen>
+   <dimen name="recents_task_view_shadow_rounded_corners_radius">9dp</dimen>
 	
     <!-- Height of the status bar header bar -->
     <dimen name="status_bar_header_height">110dp</dimen>
