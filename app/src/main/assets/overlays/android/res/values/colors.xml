@@ -30,11 +30,9 @@
     <!-- #F44336 - 500 -->
     <!-- #E53935 - 600 -->
 
-    <!-- Android O Colors -->
-    <!-- #F5F5F5 - White QS background -->
-	<!-- #EEEEEE - Another white to make the secondary settings color -->
-	<!-- #4C4C4C - System accent and color of the QS icons -->
-	<!-- #212121 - Second system accent added by me -->
+	<!-- Pink -->
+	<!-- #E91E63 - 500 -->
+	<!-- #D81B60 - 600 -->
 	
     <color name="accent_material_light">#ff3e4147</color>
     <color name="accent_material_dark">#ff2a2c31</color>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Grey 800 -->
+    <color name="primary">#424242</color>
+    <!-- Grey 900 -->
+	<color name="primary_dark">#212121</color>
+    <color name="tab_indicator">@*android:color/accent_material_light</color>	
+	<color name="accent">@*android:color/accent_material_light</color>
+    <color name="accent_dark">@*android:color/accent_material_dark</color>
+    <color name="accent_dark_30">@*android:color/accent_material_dark</color>
+    <color name="accent_light">@*android:color/accent_material_light</color>
+    <color name="action_mode">#212121</color>
+    <color name="action_mode_dark">#212121</color>
+    <color name="ripple_material_dark">@*android:color/accent_material_light</color>
+    <color name="ripple_material_light">@*android:color/accent_material_light</color>
+    <color name="primary_dark_material_light">#212121</color>
+    <color name="primary_dark_material_dark">#212121</color>
+    <color name="primary_text_default_material_light">#212121</color>
+    <color name="primary_text_disabled_material_light">#212121</color>
+    <color name="secondary_text_default_material_light">#212121</color>
+    <color name="section_text">#212121</color>
+    <color name="material_blue_grey_900">#212121</color>
+    <color name="btn_green_normal">#212121</color>
+	
+</resources>
+
